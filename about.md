@@ -1,6 +1,5 @@
 # About Me
 
-## Naresh Dewasi
 I'm Naresh Dewasi, a second-year Computer Science student at Chandigarh University, Mohali. 
 
 ## Interests
