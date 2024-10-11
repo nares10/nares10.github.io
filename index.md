@@ -1,2 +1,2 @@
-## Naresh's blog
-Hello and welcome to Naresh's blog. I am Deeplearning and machine learning Enthusiast. 
+## Blog
+Hello and welcome to My Blog. I am Deeplearning and machine learning Enthusiast. 
